@@ -1,0 +1,18 @@
+
+.calculator__keys { 
+    display: table-row-group; 
+    padding: 20px;
+    font-family: 'Orbitron', sans-serif;
+    background-color: #dcdbe1;
+    border: solid black 0.5px;
+    color: black;
+    border-radius: 5px;
+    width: 100%;
+    height: 65%;
+
+    /* other necessary CSS */ 
+  }
+
+  
+  
+  
